@@ -9,7 +9,7 @@ Apart from coding, I like playing chess and cricket in free time.
 
 # Welcome to My GitHub Profile  
 
-Hi, I’m **_Ali_**, a PF student trying to get better at programming.  
+**_Hi, I’m Ali, a PF student trying to get better at programming._**  
 Right now, I’m learning the C language and practicing problem solving.  
 
 ### What I’m Working On
